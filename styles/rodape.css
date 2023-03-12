@@ -1,0 +1,15 @@
+hr {
+    margin: 0;
+
+}
+
+.rodape {
+    padding: 1.5em;
+    background-color: var(--branco);
+
+}
+.rodape__titulo {
+    color: black;
+    font-size: 14px;
+
+}
